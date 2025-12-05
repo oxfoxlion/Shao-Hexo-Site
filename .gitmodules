@@ -1,0 +1,3 @@
+[submodule "themes/shao-hexo-theme"]
+	path = themes/shao-hexo-theme
+	url = https://github.com/oxfoxlion/Shao-Hexo-Theme
